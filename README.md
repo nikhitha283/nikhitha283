@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikhitha.revankar2803@gmail.com**
 
-<img src="https://tenor.com/bjpRC.gif" alt="iron man" align="center" height="50" width="50" />
+<img src="https://tenor.com/bjpRC/Ruanzikaad Fly.gif" alt="iron man" align="center" height="50" width="50" />
 <img align="right" alt="Coding" width="300" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif"  />
 
 <h3 align="left">Connect with me:</h3>
